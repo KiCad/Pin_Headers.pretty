@@ -1,7 +1,7 @@
-(module PIN_HEADER_A1_1X40 (layer F.Cu)
+(module Pin_Header_Angled_1X40 (layer F.Cu)
   (descr "1 pin")
   (tags "CONN DEV")
-  (fp_text reference PIN_HEADER_A1_1X40 (at 0 2.286) (layer F.SilkS)
+  (fp_text reference PIN_HEADER_A_1X40 (at 0 2.286) (layer F.SilkS)
     (effects (font (size 1.27 1.27) (thickness 0.2032)))
   )
   (fp_text value Val** (at 0 0) (layer F.SilkS) hide
