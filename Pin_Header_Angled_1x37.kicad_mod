@@ -2,10 +2,10 @@
   (descr "Through hole pin header")
   (tags "pin header")
   (fp_text reference Pin_Header_Angled_1x37 (at 0 2.286) (layer F.SilkS)
-    (effects (font (size 1.27 1.27) (thickness 0.2032)))
+    (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Val** (at 0 0) (layer F.SilkS) hide
-    (effects (font (size 1.27 1.27) (thickness 0.2032)))
+  (fp_text value VAL** (at 0 0) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -44.45 -4.064) (end -46.99 -1.524) (layer F.SilkS) (width 0.15))
   (fp_line (start -46.99 -4.064) (end -44.45 -1.524) (layer F.SilkS) (width 0.15))
