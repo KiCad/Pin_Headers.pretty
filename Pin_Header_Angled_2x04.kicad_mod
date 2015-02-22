@@ -1,4 +1,4 @@
-(module Pin_Header_Angled_2x04 (layer F.Cu)
+(module Pin_Header_Angled_2x04 (layer F.Cu) (tedit 54EA0233)
   (descr "Through hole pin header")
   (tags "pin header")
   (fp_text reference Pin_Header_Angled_2x04 (at 0 -5.1) (layer F.SilkS)
@@ -7,6 +7,8 @@
   (fp_text value VAL** (at 0 -3.1) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
+  (fp_line (start 0 -1.55) (end -1.15 -1.55) (layer F.SilkS) (width 0.15))
+  (fp_line (start -1.15 -1.55) (end -1.15 0) (layer F.SilkS) (width 0.15))
   (fp_line (start -1.35 -1.75) (end -1.35 9.4) (layer F.CrtYd) (width 0.05))
   (fp_line (start 13.2 -1.75) (end 13.2 9.4) (layer F.CrtYd) (width 0.05))
   (fp_line (start -1.35 -1.75) (end 13.2 -1.75) (layer F.CrtYd) (width 0.05))
@@ -27,8 +29,6 @@
   (fp_line (start 4.064 7.366) (end 3.556 7.366) (layer F.SilkS) (width 0.15))
   (fp_line (start 4.064 5.334) (end 3.556 5.334) (layer F.SilkS) (width 0.15))
   (fp_line (start 4.064 4.826) (end 3.556 4.826) (layer F.SilkS) (width 0.15))
-  (fp_line (start 4.064 -1.27) (end 6.604 1.27) (layer F.SilkS) (width 0.15))
-  (fp_line (start 6.604 -1.27) (end 4.064 1.27) (layer F.SilkS) (width 0.15))
   (fp_line (start 6.604 -0.127) (end 12.573 -0.127) (layer F.SilkS) (width 0.15))
   (fp_line (start 12.573 -0.127) (end 12.573 0.127) (layer F.SilkS) (width 0.15))
   (fp_line (start 12.573 0.127) (end 6.731 0.127) (layer F.SilkS) (width 0.15))
