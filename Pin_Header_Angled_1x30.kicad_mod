@@ -1,10 +1,10 @@
 (module Pin_Header_Angled_1x30 (layer F.Cu)
   (descr "Through hole pin header")
   (tags "pin header")
-  (fp_text reference Pin_Header_Angled_1x30 (at 0 -5.1) (layer F.SilkS)
+  (fp_text reference REF** (at 0 -5.1) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value VAL** (at 0 -3.1) (layer F.SilkS) hide
+  (fp_text value Pin_Header_Angled_1x30 (at 0 -3.1) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -1.5 -1.75) (end -1.5 75.45) (layer F.CrtYd) (width 0.05))
@@ -318,7 +318,7 @@
   (pad 28 thru_hole oval (at 0 68.58) (size 2.032 1.7272) (drill 1.016) (layers *.Cu *.Mask F.SilkS))
   (pad 29 thru_hole oval (at 0 71.12) (size 2.032 1.7272) (drill 1.016) (layers *.Cu *.Mask F.SilkS))
   (pad 30 thru_hole oval (at 0 73.66) (size 2.032 1.7272) (drill 1.016) (layers *.Cu *.Mask F.SilkS))
-  (model Pin_Headers/Pin_Header_Angled_1x30.wrl
+  (model Pin_Headers.3dshapes/Pin_Header_Angled_1x30.wrl
     (at (xyz 0 -1.45 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 90))
