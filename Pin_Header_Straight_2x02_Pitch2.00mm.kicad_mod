@@ -1,4 +1,4 @@
-(module Pin_Header_Straight_2x02_Pitch2.00mm (layer F.Cu) (tedit 56C9B0A9)
+(module Pin_Header_Straight_2x02_Pitch2.00mm (layer F.Cu) (tedit 56C9B530)
   (descr "Through hole pin header, 2x02, 2.00mm pitch, double row")
   (tags "pin header double row")
   (fp_text reference REF** (at 0 -5) (layer F.SilkS)
@@ -24,4 +24,8 @@
   (pad 3 thru_hole circle (at 0 2) (size 1.35 1.35) (drill 0.8) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 2 0) (size 1.35 1.35) (drill 0.8) (layers *.Cu *.Mask))
   (pad 4 thru_hole circle (at 2 2) (size 1.35 1.35) (drill 0.8) (layers *.Cu *.Mask))
+(model Pin_Headers.3dshapes/Pin_Header_Straight_2x02_Pitch2.00mm.wrl
+	(at (xyz 0.0393700787402 -0.0393700787402 0))
+	(scale (xyz 1 1 1))
+	(rotate (xyz 0 0 90)))
 )
