@@ -19,6 +19,6 @@
   (model Pin_Headers.3dshapes/Pin_Header_Straight_1x01.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 90))
+    (rotate (xyz 0 0 0))
   )
 )
