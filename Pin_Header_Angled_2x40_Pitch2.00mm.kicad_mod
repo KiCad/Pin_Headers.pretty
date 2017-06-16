@@ -1,4 +1,4 @@
-(module Pin_Header_Angled_2x40_Pitch2.00mm (layer F.Cu) (tedit 59444127)
+(module Pin_Header_Angled_2x40_Pitch2.00mm (layer F.Cu) (tedit 5944457B)
   (descr "Through hole angled pin header, 2x40, 2.00mm pitch, 4mm pin length, double rows")
   (tags "Through hole angled pin header THT 2x40 2.00mm double row")
   (fp_text reference REF** (at 4 -2) (layer F.SilkS)
@@ -826,7 +826,7 @@
   (fp_text user %R (at 4.25 39 90) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (model Pin_Headers.3dshapes/Pin_Header_Angled_2x40_Pitch2.00mm.wrl
+  (model ${KISYS3DMOD}/Pin_Headers.3dshapes/Pin_Header_Angled_2x40_Pitch2.00mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
