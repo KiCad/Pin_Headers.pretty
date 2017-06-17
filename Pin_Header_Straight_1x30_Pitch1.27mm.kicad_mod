@@ -1,4 +1,4 @@
-(module Pin_Header_Straight_1x30_Pitch1.27mm (layer F.Cu) (tedit 59444DA3)
+(module Pin_Header_Straight_1x30_Pitch1.27mm (layer F.Cu) (tedit 59451197)
   (descr "Through hole straight pin header, 1x30, 1.27mm pitch, single row")
   (tags "Through hole pin header THT 1x30 1.27mm single row")
   (fp_text reference REF** (at 0 -1.695) (layer F.SilkS)
