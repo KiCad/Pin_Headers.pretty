@@ -1,4 +1,4 @@
-(module Pin_Header_Straight_1x08_Pitch1.27mm_SMD_Pin1Right (layer F.Cu) (tedit 5945C871)
+(module Pin_Header_Straight_1x08_Pitch1.27mm_SMD_Pin1Right (layer F.Cu) (tedit 594656BF)
   (descr "surface-mounted straight pin header, 1x08, 1.27mm pitch, single row, style 2 (pin 1 right)")
   (tags "Surface mounted pin header SMD 1x08 1.27mm single row style2 pin1 right")
   (attr smd)
