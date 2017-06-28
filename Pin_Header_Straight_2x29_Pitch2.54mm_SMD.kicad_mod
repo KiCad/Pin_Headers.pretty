@@ -1,4 +1,4 @@
-(module Pin_Header_Straight_2x29_Pitch2.54mm_SMD (layer F.Cu) (tedit 59539C5A)
+(module Pin_Header_Straight_2x29_Pitch2.54mm_SMD (layer F.Cu) (tedit 5953A5BB)
   (descr "surface-mounted straight pin header, 2x29, 2.54mm pitch, double rows")
   (tags "Surface mounted pin header SMD 2x29 2.54mm double row")
   (attr smd)

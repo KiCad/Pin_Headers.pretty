@@ -1,4 +1,4 @@
-(module Pin_Header_Angled_2x06_Pitch2.54mm (layer F.Cu) (tedit 59539C5A)
+(module Pin_Header_Angled_2x06_Pitch2.54mm (layer F.Cu) (tedit 5953A5BB)
   (descr "Through hole angled pin header, 2x06, 2.54mm pitch, 6mm pin length, double rows")
   (tags "Through hole angled pin header THT 2x06 2.54mm double row")
   (fp_text reference REF** (at 5.655 -2.27) (layer F.SilkS)
@@ -124,7 +124,7 @@
   (pad 11 thru_hole oval (at 0 12.7) (size 1.7 1.7) (drill 1.0) (layers *.Cu *.Mask))
   (pad 12 thru_hole oval (at 2.54 12.7) (size 1.7 1.7) (drill 1.0) (layers *.Cu *.Mask))
   (fp_text user %R (at 5.31 6.35 90) (layer F.Fab)
-    (effects (font (size 1.524 1.524) (thickness 0.3048)))
+    (effects (font (size 1 1) (thickness 0.15)))
   )
   (model ${KISYS3DMOD}/Pin_Headers.3dshapes/Pin_Header_Angled_2x06_Pitch2.54mm.wrl
     (at (xyz 0 0 0))
