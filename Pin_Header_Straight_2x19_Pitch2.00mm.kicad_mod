@@ -1,4 +1,4 @@
-(module Pin_Header_Straight_2x19_Pitch2.00mm (layer F.Cu) (tedit 595358AF)
+(module Pin_Header_Straight_2x19_Pitch2.00mm (layer F.Cu) (tedit 59539C5C)
   (descr "Through hole straight pin header, 2x19, 2.00mm pitch, double rows")
   (tags "Through hole pin header THT 2x19 2.00mm double row")
   (fp_text reference REF** (at 1 -2.06) (layer F.SilkS)

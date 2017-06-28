@@ -1,4 +1,4 @@
-(module Pin_Header_Angled_1x18_Pitch2.00mm (layer F.Cu) (tedit 595358AE)
+(module Pin_Header_Angled_1x18_Pitch2.00mm (layer F.Cu) (tedit 59539C5B)
   (descr "Through hole angled pin header, 1x18, 2.00mm pitch, 4.2mm pin length, single row")
   (tags "Through hole angled pin header THT 1x18 2.00mm single row")
   (fp_text reference REF** (at 3.1 -2) (layer F.SilkS)
@@ -261,7 +261,7 @@
   (pad 17 thru_hole oval (at 0 32) (size 1.35 1.35) (drill 0.8) (layers *.Cu *.Mask))
   (pad 18 thru_hole oval (at 0 34) (size 1.35 1.35) (drill 0.8) (layers *.Cu *.Mask))
   (fp_text user %R (at 2.25 17 90) (layer F.Fab)
-    (effects (font (size 1 1) (thickness 0.15)))
+    (effects (font (size 0.9 0.9) (thickness 0.18)))
   )
   (model ${KISYS3DMOD}/Pin_Headers.3dshapes/Pin_Header_Angled_1x18_Pitch2.00mm.wrl
     (at (xyz 0 0 0))
