@@ -1,4 +1,4 @@
-(module Pin_Header_Angled_1x37_Pitch1.00mm (layer F.Cu) (tedit 598981C5)
+(module Pin_Header_Angled_1x37_Pitch1.00mm (layer F.Cu) (tedit 598994AB)
   (descr "Through hole angled pin header, 1x37, 1.00mm pitch, 2.0mm pin length, single row")
   (tags "Through hole angled pin header THT 1x37 1.00mm single row")
   (fp_text reference REF** (at 1.375 -1.5) (layer F.SilkS)
